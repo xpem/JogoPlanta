@@ -1,0 +1,14 @@
+C:\Users\Emanuel Martins\source\repos\Planta\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\Emanuel Martins\source\repos\Planta\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\Emanuel Martins\source\repos\Planta\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\Emanuel Martins\source\repos\Planta\BL\bin\Debug\netstandard2.0\AL.dll
+C:\Users\Emanuel Martins\source\repos\Planta\BL\bin\Debug\netstandard2.0\AL.pdb
+C:\Users\Emanuel Martins\source\repos\Planta\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\Emanuel Martins\source\repos\Planta\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\Emanuel Martins\source\repos\Planta\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\Emanuel Martins\source\repos\Planta\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Martins\source\repos\Planta\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\Emanuel Martins\source\repos\Planta\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\Emanuel Martins\source\repos\Planta\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\Emanuel Martins\source\repos\Planta\BL\bin\Debug\netstandard2.0\ML.dll
+C:\Users\Emanuel Martins\source\repos\Planta\BL\bin\Debug\netstandard2.0\ML.pdb
