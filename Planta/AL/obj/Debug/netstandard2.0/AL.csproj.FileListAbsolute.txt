@@ -10,3 +10,15 @@ C:\Users\Emanuel Martins\source\repos\Planta\AL\obj\Debug\netstandard2.0\AL.pdb
 C:\Users\Emanuel Martins\source\repos\Planta\AL\bin\Debug\netstandard2.0\ML.dll
 C:\Users\Emanuel Martins\source\repos\Planta\AL\bin\Debug\netstandard2.0\ML.pdb
 C:\Users\Emanuel Martins\source\repos\Planta\AL\obj\Debug\netstandard2.0\AL.csproj.CopyComplete
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\bin\Debug\netstandard2.0\AL.deps.json
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\bin\Debug\netstandard2.0\AL.dll
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\bin\Debug\netstandard2.0\AL.pdb
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\bin\Debug\netstandard2.0\ML.dll
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\bin\Debug\netstandard2.0\ML.pdb
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\obj\Debug\netstandard2.0\AL.csprojAssemblyReference.cache
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\obj\Debug\netstandard2.0\AL.AssemblyInfoInputs.cache
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\obj\Debug\netstandard2.0\AL.AssemblyInfo.cs
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\obj\Debug\netstandard2.0\AL.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\obj\Debug\netstandard2.0\AL.csproj.CopyComplete
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\obj\Debug\netstandard2.0\AL.dll
+C:\Users\Emanuel Martins\source\repos\JogoPlanta\Planta\AL\obj\Debug\netstandard2.0\AL.pdb
